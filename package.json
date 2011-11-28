@@ -2,7 +2,7 @@
   "author": "Marak Squires <marak.squires@gmail.com>",
   "name": "hook.io-feed",
   "description": "a Hook for creating consumable RSS, JSON, ATOM feeds",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/hookio/feed.git"
