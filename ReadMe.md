@@ -7,9 +7,8 @@ a Hook for creating consumable feeds ( RSS, JSON, ATOM, etc... )
 
 ## Installation
 
-``` bash
-   $ npm install hook.io -g
-   $ npm install hook.io-feed -g
+```
+npm install hook.io-feed -g
 ```
    
 ## Usage
