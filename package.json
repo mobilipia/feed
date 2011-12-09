@@ -21,7 +21,8 @@
     "node": ">= v0.4.7"
   },
   "dependencies": {
-    "hook.io": "0.8.x"
+    "hook.io": "0.8.x",
+    "feedsub": "*"
   },
   "devDependencies": {}
 }
